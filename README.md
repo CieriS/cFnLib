@@ -1,2 +1,2 @@
-# cFnLib
-c Functions Library for exam
+# C Functions Library
+myCFunctions & Libraries
